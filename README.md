@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](./images/image.png)
 
 # <center> HiBao Pro:您的全场景智能助手
 
