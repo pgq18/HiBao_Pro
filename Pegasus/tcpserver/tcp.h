@@ -1,0 +1,1 @@
+extern char request[128];
